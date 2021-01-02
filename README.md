@@ -1,2 +1,3 @@
 # armanpwnz.github.io
-test
+Testing Hugo website with awesome-identity theme.
+
